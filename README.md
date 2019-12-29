@@ -6,6 +6,9 @@
 ## Architecture of MDAN
 ![](https://github.com/cj4L/ESAN-VSP/raw/master/pic/MDAN.png)
 
+## Architecture of DAM
+![](https://github.com/cj4L/ESAN-VSP/raw/master/pic/DAM.png)
+
 #### Schedule
 - [x] Create github repo (2019.12.29)
 - [ ] All results (soon)
